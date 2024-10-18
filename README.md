@@ -1,5 +1,5 @@
 ## Oii!! eu sou Marcelo Henrique estudante de Sistemas de Informação
-Sempre interessado em aprender coisas novas!!
+Sempre interessado em aprender!!
 
 <div>
   <a >
