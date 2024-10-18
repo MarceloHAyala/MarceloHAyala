@@ -1,6 +1,6 @@
 ## Oii!! eu sou Marcelo Henrique estudante de Sistemas de Informação
-- 📫 Me mande mensagem por marcelohenriqueayalagomes@gmail.com
-- 🧑‍💼www.linkedin.com/in/marcelohenriqueayala
+Sempre interessado em aprender coisas novas!!
+
 <div>
   <a >
     <a href="https://github.com/MarceloHAyala">
